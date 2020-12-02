@@ -1,0 +1,8 @@
+{
+  "REMOTE_USER": "test",
+  "LOCAL_DIRECTORY": "data",
+  "COMMAND_SET": ["display_file", "create_directory", "list_files"],
+  "REMOTE_FILE_NAME": "test_file",
+  "REMOTE_DIR_NAME": "test_dir",
+  "LIST_FILES_DIRECTORY_NAME": "test_dir"
+}
